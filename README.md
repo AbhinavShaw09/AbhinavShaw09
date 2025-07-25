@@ -3,7 +3,7 @@
 
 ## About Me🙂 
 
-* Hi👋, I am Abhinav Shaw, I am a FullStack Engineer, I love Learning new stuff and building projects. I also like creating websites, currently exploring about how real time systems are designed.
+* Hi👋, I am Abhinav Shaw, I am a FullStack Engineer currently working at Dukaan®, I love Learning new stuff and building projects. I also like creating websites, currently exploring about how real time systems are designed.
 
 ## Tech Stack🧑‍💻
 
